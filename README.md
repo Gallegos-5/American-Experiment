@@ -104,3 +104,11 @@ A modular, interoperable blueprint for perpetual American renewal—every statut
 **The American experiment is not over. Its next chapter is ours to write.**
 
 ---
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+See the [LICENSE](./LICENSE) file for details.
+
+[CC BY 4.0 summary](https://creativecommons.org/licenses/by/4.0/)
+
+---
